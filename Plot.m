@@ -63,3 +63,5 @@ set(gca, 'fontsize',16)
 set(gcf, 'color', 'w')
 legend('FFR - HKI','FFR - COMSOL')
 xlim([min(Freq/f0) max(Freq/f0)])
+
+%% 변경사항
